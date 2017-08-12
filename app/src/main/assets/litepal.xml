@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="run_quickly" />
+    <version value="1" />
+
+    <list>
+
+        <mapping class="com.example.jock.runquickly.db.Card" />
+        <mapping class="com.example.jock.runquickly.db.Player" />
+
+    </list>
+
+</litepal>
