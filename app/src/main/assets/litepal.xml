@@ -5,8 +5,8 @@
 
     <list>
 
-        <mapping class="com.example.jock.runquickly.db.Card" />
-        <mapping class="com.example.jock.runquickly.db.Player" />
+        <mapping class="com.example.jock.runquickly.com.example.jock.runquickly.db.Card" />
+        <mapping class="com.example.jock.runquickly.com.example.jock.runquickly.db.Player" />
 
     </list>
 

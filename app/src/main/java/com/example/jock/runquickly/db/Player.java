@@ -1,4 +1,4 @@
-package db;
+package com.example.jock.runquickly.db;
 
 import org.litepal.crud.DataSupport;
 

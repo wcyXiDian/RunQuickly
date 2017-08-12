@@ -1,7 +1,7 @@
-package util;
+package com.example.jock.runquickly.util;
 
-import db.Card;
-import db.Player;
+import com.example.jock.runquickly.db.Card;
+import com.example.jock.runquickly.db.Player;
 
 /**
  * Created by Jock on 2017/8/12.
